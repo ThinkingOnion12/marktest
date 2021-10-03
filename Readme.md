@@ -1,15 +1,19 @@
  # Hallym Universitiy
  ###### Email: heesung4548@naver.com
  
- >소속: 글로벌융합대학  
+ ---
+<img src=mycharacter.png height=150 width=150>  
+
+ >성명: 최희성
+ >>소속: 글로벌융합대학  
  >>학부: 글로벌학부  
  >>전공: 정보법과학  
 
 ### 관심분야
-1. 게임 제작
-  * *언리얼엔진* 
-2. ~~인공지능~~
-3. 영업
+* 게임 제작
+* **언리얼엔진** 
+* ~~인공지능~~
+* 영업
 ---
 ### 사용가능언어
 + C  
@@ -24,11 +28,9 @@
 [googlelink]:http://www.google.com
 
 
-### score
-|C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|JAVA&nbsp;&nbsp;&nbsp;&nbsp;|PYTHON|
-|---:|---:|---:|
-|4.3|4.5|3.8|
+### 언어 사용
+|한국어|중국어|&nbsp;영어&nbsp;&nbsp;&nbsp;|
+|:---:|:---:|:---:|
+|기본|14년|-|
 
----
-### 이미지
-!(anime)(mycharacter.png)
+
