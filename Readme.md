@@ -31,4 +31,4 @@
 
 ---
 ### 이미지
-!(anime)(/mycharacter/mycharacter.png)
+!(anime)(mycharacter.png)
